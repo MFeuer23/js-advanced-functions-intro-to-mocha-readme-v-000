@@ -19,5 +19,5 @@ function shouting(input) {
 }
 
 function roundDown(int) {
-  return int.Math.roundDown;
+  return Math.roundDown(int);
 }
