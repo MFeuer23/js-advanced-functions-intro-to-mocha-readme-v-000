@@ -15,5 +15,5 @@ function favoriteIceCream(name) {
 }
 
 function shouting(input) {
-  return input.
+  return input.toUpperCase();
 }
